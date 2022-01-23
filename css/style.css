@@ -532,7 +532,7 @@ header ul li:hover {
     gap: 1.5rem;
   }
   .product-card {
-    max-width: 40%;
+    max-width: 80%;
     margin: auto;
   }
   .products-card-image {
