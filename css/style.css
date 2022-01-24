@@ -480,7 +480,7 @@ header ul li:hover {
 /* CONTACT */
 /* END OF CONTACT */
 /* MEDIA QUIERIES */
-@media (min-width: 80rem) {
+@media screen and (min-width: 80rem) {
   .hero {
     -webkit-box-pack: start;
         -ms-flex-pack: start;
@@ -490,7 +490,7 @@ header ul li:hover {
   }
 }
 
-@media (min-width: 320px) {
+@media screen and (min-width: 320px) {
   .container {
     margin-inline: auto;
     max-width: 80rem;
