@@ -270,8 +270,7 @@ header ul li:hover {
 }
 
 /* END OF ABOUT */
-/* CONTAINER */
-/* END OF CONTAINER */
+
 /* PRODUCTS */
 .products-head {
   padding: 1rem 0;
@@ -300,7 +299,6 @@ header ul li:hover {
 
 .products-card-image {
   width: 40%;
-  aspect-ratio: 1;
   background-color: white;
   border-radius: 50%;
   border: 3px solid var(--dark-red);
